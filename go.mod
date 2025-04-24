@@ -1,3 +1,1 @@
-module github.com/krolaw/zipstream
-
-go 1.23.1
+module github.com/PragyeshMishra01/zipstream
